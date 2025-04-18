@@ -46,9 +46,9 @@ Create a **.env** file in the root directory with the following variables:
 DATABRICKS_HOST=your-databricks-instance.cloud.databricks.com # Don't add https
 DATABRICKS_TOKEN=your-personal-access-token
 ```
-----------
 
-### 📌 Manually Adding Genie Space IDs
+
+📌 **Manually Adding Genie Space IDs**
 
 **Note:**  
  At this time, the Databricks Genie API **does not provide a public endpoint to list all available space IDs and titles**.  (afaik)
