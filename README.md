@@ -89,6 +89,9 @@ mcp install main.py
    
    5. Start chatting with your data using natural language! 🎯
 
+
+
+
 ## 🧾 Obtaining Databricks Credentials
 **Host**
 Your Databricks instance URL (e.g., your-instance.cloud.databricks.com) — do not include https://
@@ -138,3 +141,9 @@ Common Issues
  - Use minimal scope tokens with expiration whenever possible
 
 - Avoid exposing this server in public-facing environments unless authenticated
+
+## Claude Desktop Screenshots
+
+![image](https://github.com/user-attachments/assets/42b391d3-0ae8-48bd-8665-a1560437b8ef)
+
+![image](https://github.com/user-attachments/assets/eb80c99f-e854-4d55-bb0e-8a447c29ee51)
